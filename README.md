@@ -1,6 +1,6 @@
 # 🚗 Car Detection and Counter
 
-This Python project detects and counts cars in video streams or from video files using computer vision techniques. It uses OpenCV along with a pre-trained deep learning model (e.g., YOLO, Haar cascades, or MobileNet-SSD).
+This Python project detects and counts cars in video streams or from video files using computer vision techniques. It uses OpenCV along with a pre-trained deep learning model
 
 ## 📸 Features
 
