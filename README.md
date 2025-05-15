@@ -15,12 +15,4 @@ This Python project detects and counts cars in video streams or from video files
 - OpenCV
 - NumPy
 
-Optional (for YOLO or deep learning-based detection):
-- `opencv-contrib-python`
-- `imutils`
 
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-# Car-Detection-and-Counters
